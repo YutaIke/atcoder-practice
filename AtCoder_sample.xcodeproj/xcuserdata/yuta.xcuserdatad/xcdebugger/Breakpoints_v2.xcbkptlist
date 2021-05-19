@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7B06F80-7D29-4992-B53A-85140EA006E1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57E1471F-3ECB-4472-970D-708E8DA8A1D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AtCoder_sample/hakuchumu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91A8F0B4-3B74-4D4C-9352-5A3B621D3D94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AtCoder_sample/&#x9806;&#x5217;&#x63a2;&#x7d22;/C/CountOrder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "countOrder()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "91A8F0B4-3B74-4D4C-9352-5A3B621D3D94 - d3f43ed87e214398"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AtCoder_sample.countOrder() -&gt; ()"
+                  moduleName = "AtCoder_sample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuta/workspace/AtCoder/AtCoder_sample/AtCoder_sample/%E9%A0%86%E5%88%97%E6%8E%A2%E7%B4%A2/C/CountOrder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1548">
+               </Location>
+               <Location
+                  uuid = "91A8F0B4-3B74-4D4C-9352-5A3B621D3D94 - dcfe85c9d7c8b58f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Int in AtCoder_sample.countOrder() -&gt; ()"
+                  moduleName = "AtCoder_sample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuta/workspace/AtCoder/AtCoder_sample/AtCoder_sample/%E9%A0%86%E5%88%97%E6%8E%A2%E7%B4%A2/C/CountOrder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
